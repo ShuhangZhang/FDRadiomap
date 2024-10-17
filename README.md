@@ -10,4 +10,6 @@ Parameter settings are marked in the file name of each png.
 
 The naming rule is introduced in Appendix A of the paper manuscript in pdf. Paper can be found at 'SpectrumNet_Manuscript1.0.pdf', or https://arxiv.org/abs/2408.15252.
 
+For more information, please refer to https://spectrum-net.github.io/
+
 New versions of _SpectrmNet_ will be released continueously.
